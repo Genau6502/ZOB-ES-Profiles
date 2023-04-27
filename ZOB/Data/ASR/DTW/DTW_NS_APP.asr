@@ -1,0 +1,36 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:\..\\Data\SCT\ZOB_ES.sct2
+SECTORTITLE:ZOB_ES.sct2
+ARTCC boundary:ZOB:
+Geo:GEO:
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 1
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 1 left ticks
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 1 right ticks
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 2
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 2 left ticks
+Runways:KDTW Detroit Metro Wayne County Airport 03R-21L:extended centerline 2 right ticks
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 1
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 1 left ticks
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 1 right ticks
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 2
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 2 left ticks
+Runways:KDTW Detroit Metro Wayne County Airport 04L-22R:extended centerline 2 right ticks
+Sids:+ APPROACH BOUNDARIES:
+Sids:+ D21 CLASS B:
+Sids:+ D21 CLASS D:
+SHOWC:1
+SHOWSB:0
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.545778:-85.040235:42.879111:-81.666536
