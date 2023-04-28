@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\..\\Data\SCT\ZOB_ES.sct2
+SECTORFILE:\..\ZOB\Data\SCT\ZOB_ES.sct2
 SECTORTITLE:ZOB_ES.sct2
 Free Text:SCT2\07:freetext
 Free Text:SCT2\07:freetext
@@ -932,7 +932,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:AC
-WINDOWAREA:42.188988:-83.412737:42.235900:-83.294035
+WINDOWAREA:41.397395:-81.885078:41.421414:-81.824303
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:KCLE

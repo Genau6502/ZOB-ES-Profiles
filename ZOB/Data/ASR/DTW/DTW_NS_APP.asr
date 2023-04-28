@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\..\\Data\SCT\ZOB_ES.sct2
+SECTORFILE:\..\ZOB\Data\SCT\ZOB_ES.sct2
 SECTORTITLE:ZOB_ES.sct2
 ARTCC boundary:ZOB:
 Geo:GEO:

@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\..\\Data\SCT\ZOB_ES.sct2
+SECTORFILE:\..\ZOB\Data\SCT\ZOB_ES.sct2
 SECTORTITLE:ZOB_ES.sct2
 Free Text:SCT2\07:freetext
 Free Text:SCT2\07:freetext

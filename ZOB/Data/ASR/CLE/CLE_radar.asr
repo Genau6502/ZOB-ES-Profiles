@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\..\\Data\SCT\ZOB_ES.sct2
+SECTORFILE:\..\ZOB\Data\SCT\ZOB_ES.sct2
 SECTORTITLE:ZOB_ES.sct2
 ARTCC boundary:ZOB:
 Geo:GEO:
@@ -98,4 +98,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:0.000000:0.000000:0.000000:0.000000
+WINDOWAREA:41.136338:-82.545624:41.682471:-81.163757
