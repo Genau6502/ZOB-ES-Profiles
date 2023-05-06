@@ -13,7 +13,9 @@ Contains Euroscope profiles and a modified sector file for use on the VATSIM net
 Sector file © Cleveland ARTCC 2023
 
 
-vSMR plugin © pierr3, licensed under the GNU GPL version 3, found [here](https://github.com/pierr3/vSMR/blob/master/LICENSE). vSMR is distributed unmodified as part of the profiles.
+vSMR plugin thanks to pierr3, license found [here](https://github.com/pierr3/vSMR/blob/master/LICENSE). vSMR is distributed unmodified as part of the profiles.
+
+AfV Euroscope Bridge thanks to Andy Ford, license found [here](https://github.com/AndyTWF/afv-euroscope-bridge/blob/master/LICENSE). AfV Euroscope is distributed unmodified as part of the profiles.
 
 
 Profiles © 2023 Genau6502
