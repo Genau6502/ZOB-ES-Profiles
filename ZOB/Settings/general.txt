@@ -32,8 +32,8 @@ m_AutoMessageForTextAircraft:1
 m_ShowRouteWhenAccepting:1
 m_AllowAssumedACTagDown:0
 m_InhibitAutoPushOnHandoff:0
-m_RandomSquawks:0
-m_VFRSquawks:7000
+m_RandomSquawks:1
+m_VFRSquawks:1200
 m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
@@ -129,7 +129,7 @@ SET_MTCA_Show:1
 m_TaxiOutTime:7
 m_StartupTime:10
 m_ConnectTime:15
-m_AutoAssumeOnGroundStateChangeButton:1
+m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 m_EquipmentsIcaoFormat:1

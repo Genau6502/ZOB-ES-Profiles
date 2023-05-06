@@ -14,6 +14,7 @@ Settings	FreqKey	3604480
 LastSession	atis_freq3	118000
 Plugins	Plugin0	\..\Data\vSMR\vSMR.dll
 Plugins	Plugin0Display0	SMR radar display
+Plugins	Plugin1	\..\Data\Plugin\AfvEuroScopeBridge.dll
 Settings	SettingsfileSIL	\..\Settings\sector_inbound_list.txt
 Settings	SettingsfileSEL	\..\Settings\sector_exit_list.txt
 Settings	SettingsfileDEP	\..\Settings\departure_list.txt

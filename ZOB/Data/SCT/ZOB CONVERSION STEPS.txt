@@ -1,4 +1,4 @@
-Under [AIRPORTS]
+Under [AIRPORT]
 
 KDTW 118.4   N042.12.44.799 W083.21.12.189  ; DETROIT METRO WAYNE COUNTY  (Public)
 to
@@ -11,3 +11,13 @@ Under [RUNWAY]
 03L 21R 39 219 N042.12.28.206 W083.21.04.386 N042.13.41.852 W083.20.10.112 ;KDTW
 to
 03L 21R 39 219 N042.12.28.206 W083.21.04.386 N042.13.41.852 W083.20.10.112 KDTW Detroit Metro;KDTW
+
+
+FOR THE ESE:
+
+Take the .POF
+
+Add the following to the [SIDSSTARS] section:
+
+SID:<ICAO>:<runway>:<sidname>.<transition>:EUROSCOPEWHY ROUTE
+STAR:<ICAO>:<runway>:<starname>.<transition>:ROUTE
