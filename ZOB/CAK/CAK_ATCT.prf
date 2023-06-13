@@ -27,10 +27,5 @@ Settings	SettingsfileVCCS	\..\Settings\vccs_config.txt
 Settings	airlines	\..\Data\vSMR\ICAO_Airlines.txt
 Settings	alias	\..\Data\SCT\ZOB Alias 2302v0.1F.txt
 Plugins	Plugin1	\..\Data\Plugin\AfvEuroScopeBridge.dll
-ASRFastKeys	1	\..\Data\ASR\DTW\DTW_SF_ARR.asr
-ASRFastKeys	2	\..\Data\ASR\DTW\DTW_SF_DEP.asr
-ASRFastKeys	3	\..\Data\ASR\DTW\DTW_NF_ARR.asr
-ASRFastKeys	4	\..\Data\ASR\DTW\DTW_NF_DEP.asr
-ASRFastKeys	5	\..\Data\ASR\DTW\DTW_SMR.asr
-ASRFastKeys	6	\..\Data\ASR\DTW\DTW_WF_ARR.asr
-ASRFastKeys	7	\..\Data\ASR\DTW\DTW_WF_DEP.asr
+ASRFastKeys	1	\..\Data\ASR\CAK\CAK_LC.asr
+ASRFastKeys	2	\..\Data\ASR\CAK\CAK_SMR.asr

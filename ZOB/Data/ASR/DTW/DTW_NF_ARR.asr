@@ -1,0 +1,26 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:\..\Data\SCT\ZOB_ES.sct2
+SECTORTITLE:ZOB_ES.sct2
+Runways:KDTW Detroit Metro Wayne County Airport 3L-21R:centerline
+Runways:KDTW Detroit Metro Wayne County Airport 3R-21L:centerline
+Runways:KDTW Detroit Metro Wayne County Airport 4L-22R:centerline
+Runways:KDTW Detroit Metro Wayne County Airport 4R-22L:centerline
+Runways:KDTW Detroit Metro Wayne County Airport 9L-27R:centerline
+Runways:KDTW Detroit Metro Wayne County Airport 9R-27L:centerline
+Stars:- D21 NORTH:
+SHOWC:1
+SHOWSB:0
+BELOW:500
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC
+WINDOWAREA:41.379111:-85.461948:43.045778:-81.244824
